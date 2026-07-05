@@ -19,7 +19,8 @@ export const profile = {
   location: "Karachi Gulshan Iqbal",
   email: "graphicjr409@gmail.com",
   phone: "+92 3189312180",
-  resumeUrl: "#",
+  resumeUrl:
+    "https://drive.google.com/file/d/1wWtWdiwvglT142HltTGX60_pZF53PhUc/view?usp=sharing",
   // Use any image URL or a local path in /public
   avatar: "/me.png",
   socials: [
