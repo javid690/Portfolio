@@ -19,8 +19,7 @@ export const profile = {
   location: "Karachi Gulshan Iqbal",
   email: "graphicjr409@gmail.com",
   phone: "+92 3189312180",
-  resumeUrl:
-    "https://drive.google.com/file/d/1wWtWdiwvglT142HltTGX60_pZF53PhUc/view?usp=sharing",
+  resumeUrl: "/javid rahman CV.pdf.pdf",
   // Use any image URL or a local path in /public
   avatar: "/me.png",
   socials: [
@@ -161,7 +160,7 @@ export const projects = [
     category: "WordPress",
     badge: "WordPress",
     tags: ["WordPress", "WooCommerce", "Elementor"],
-    url: "https://odheyati.com/",
+    url: "https://wasera.pk/",
   },
 
   {
