@@ -111,6 +111,18 @@ export const experience = [
     ],
   },
   {
+    role: "Frontend / UI Developer — Arez Tech Global",
+    company: "Arez Tech Global",
+    period: "July 2026  — Present",
+    location: "Remote",
+    points: [
+      "UI System & Layout Management: Developed and structured production-ready user interfaces using global styling systems, visual hierarchies, and professional layout standards.",
+      "Design-to-Web Fidelity: Transformed complex UI/UX wireframes and Figma prototypes into responsive, pixel-perfect, and fully interactive web pages.",
+      "Responsive Layout Engineering: Established advanced grid layouts and custom style rules to ensure seamless user experiences across all screen sizes and devices.",
+      "Performance Optimization: Optimized frontend assets, site structures, and page-loading mechanisms to maximize cross-device compatibility and rendering speed",
+    ],
+  },
+  {
     role: "Frontend Developer (Remote)",
     company: "Contract / Part-time (Collaborating with Senior Developer)",
     period: "December 2025 — Present",
