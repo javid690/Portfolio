@@ -156,6 +156,15 @@ export const projectCategories = [
 
 export const projects = [
   {
+    title: "Wasera.pk",
+    subtitle: "Wasera.pk — E-Commerce WordPress Website",
+    category: "WordPress",
+    badge: "WordPress",
+    tags: ["WordPress", "WooCommerce", "Elementor"],
+    url: "https://odheyati.com/",
+  },
+
+  {
     title: "Odheyati",
     subtitle: "E-Commerce Qurbani Platform",
     category: "React",
