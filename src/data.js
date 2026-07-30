@@ -100,7 +100,7 @@ export const experience = [
   {
     role: "Frontend Developer",
     company: "TABSAP",
-    period: "November 1, 2025 — March 15, 2026",
+    period: "July 2024 – February 2025",
     location: "Buner, KPK, Pakistan",
     points: [
       "Engineered and maintained production-grade React.js applications with a strong focus on component reusability, modular architecture, and long-term maintainability.",
@@ -125,7 +125,7 @@ export const experience = [
   {
     role: "Frontend Developer (Remote)",
     company: "Contract / Part-time (Collaborating with Senior Developer)",
-    period: "December 2025 — Present",
+    period: "March 2025 – April 2026",
     location: "Remote",
     points: [
       "Translate Figma designs into pixel-perfect, responsive React interfaces with strict attention to detail and cross-device compatibility.",
