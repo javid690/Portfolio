@@ -11,15 +11,15 @@ export const profile = {
   titles: [
     "JavaScript (ES6+) Expert",
     "React.js Specialist",
-    "Next.js Enthusiast",
-    "Tailwind CSS",
+    "Frontend Architecture Specialist",
+    "WordPress & WooCommerce Engineer",
   ],
   tagline:
-    "Passionate about building scalable web applications with modern technologies. Turning complex problems into elegant, user-friendly solutions.",
+    "Engineering scalable, high-performance digital experiences across React.js and WordPress, with a strong focus on frontend architecture, design fidelity, performance, and maintainable production systems.",
   location: "Karachi Gulshan Iqbal",
   email: "graphicjr409@gmail.com",
   phone: "+92 3189312180",
-  resumeUrl: "/javid rahman CV.pdf.pdf",
+  resumeUrl: "/javid rahman CV.pdf",
   // Use any image URL or a local path in /public
   avatar: "/me.png",
   socials: [
@@ -35,67 +35,74 @@ export const profile = {
 export const about = {
   heading: "About Me",
   intro:
-    "I'm a Frontend Engineer with a deep passion for building responsive, clean, and high-performance user interfaces. With hands-on experience in modern frontend technologies, I specialize in transforming complex designs into intuitive, maintainable code.",
+    "I'm a Frontend Engineer focused on architecting and delivering scalable, high-performance digital experiences across React.js and WordPress. I specialize in translating complex product requirements and UI systems into production-ready, maintainable interfaces with strong emphasis on component architecture, responsive engineering, performance, and design fidelity.",
   body: [
-    "My journey in frontend development has equipped me with expertise in modern JavaScript frameworks and a strong foundation in UI/UX principles. I thrive in collaborative environments where I can learn from experienced developers, contribute meaningfully, and deliver interfaces that make a real impact.",
-    "When I'm not coding, you'll find me exploring new technologies, working on personal projects, and continuously sharpening my craft to grow as a developer.",
+    "My engineering experience spans modern React.js applications and WordPress-based digital platforms, including custom theme development, Elementor implementation, WooCommerce customization, REST API integration, reusable component systems, and advanced state management with Redux Toolkit. I approach frontend development with an emphasis on modular architecture, maintainability, cross-browser compatibility, and production-grade user experiences.",
+
+    "I have worked across e-commerce, enterprise dashboards, real estate platforms, and corporate websites, engineering interfaces that balance technical performance with usability and visual precision. My approach combines structured frontend architecture, responsive design systems, performance optimization, and business-oriented implementation to deliver reliable digital products.",
   ],
   stats: [
-    { label: "Years Experience", value: "1+" },
+    { label: "Years Experience", value: "2+" },
     { label: "Projects Completed", value: "7+" },
-    { label: "GitHub Repositories", value: "10+" },
+    { label: "GitHub Repositories", value: "20+" },
     { label: "Technologies", value: "10+" },
   ],
 };
 export const services = [
   {
     icon: "code",
-    title: "Frontend Development",
-    desc: "Building fast, responsive, and accessible web interfaces using React, Next.js and modern tooling.",
+    title: "Frontend Engineering",
+    desc: "Engineering production-grade, scalable frontend systems with React.js, modern JavaScript, reusable component architecture, and performance-focused implementation.",
   },
   {
-    icon: "puzzle",
-    title: "Custom ERP Solutions",
-    desc: "Building custom widgets and integrations for Odoo and WordPress to extend functionality as per business needs.",
+    icon: "globe",
+    title: "WordPress Engineering",
+    desc: "Developing and engineering high-performance WordPress solutions through custom theme development, advanced Elementor implementation, plugin integration, and scalable CMS architecture.",
+  },
+  {
+    icon: "shopping-cart",
+    title: "WooCommerce Engineering",
+    desc: "Engineering conversion-focused e-commerce experiences with WooCommerce, custom storefront implementation, product workflows, third-party integrations, and performance optimization.",
   },
   {
     icon: "layout",
-    title: "UI Implementation",
-    desc: "Converting designs into pixel-perfect, functional user interfaces with clean and maintainable code.",
+    title: "UI Systems Engineering",
+    desc: "Translating complex Figma and UI/UX systems into pixel-precise, responsive, accessible interfaces with strong design fidelity and maintainable frontend architecture.",
   },
   {
     icon: "atom",
-    title: "React Developer",
-    desc: "Building dynamic, component-based web applications with React.js and modern JavaScript (ES6+).",
+    title: "React.js Application Development",
+    desc: "Architecting component-driven React applications with reusable systems, advanced state orchestration, asynchronous workflows, REST API integration, and scalable application structure.",
   },
   {
-    icon: "wind",
-    title: "Tailwind CSS",
-    desc: "Designing modern, responsive UI's quickly using utility-first Tailwind CSS for clean and consistent styling.",
-  },
-  {
-    icon: "smartphone",
-    title: "Responsive Design",
-    desc: "Pixel-perfect, mobile-first interfaces that look and feel great on every device.",
+    icon: "puzzle",
+    title: "CMS & Business Solutions",
+    desc: "Engineering tailored digital solutions for business workflows through WordPress customization, Elementor systems, ACF integrations, booking functionality, and custom platform extensions.",
   },
   {
     icon: "gauge",
-    title: "Performance",
-    desc: "Optimizing load times, Core Web Vitals and runtime performance for the best user experience.",
+    title: "Frontend Performance Engineering",
+    desc: "Optimizing rendering performance, asset delivery, application structure, responsiveness, and Core Web Vitals to deliver fast and reliable digital experiences.",
   },
 ];
 
 export const skills = [
-  { name: "React JS & State Management", level: 90 },
-  { name: "JavaScript (ES6+)", level: 88 },
-  { name: "REST API Integration", level: 85 },
-  { name: "Git, GitHub (Version Control)", level: 85 },
-  { name: "Redux Toolkit, Context API", level: 82 },
-  { name: "HTML5, CSS3, Tailwind CSS, Bootstrap", level: 90 },
-  { name: "Next.js (Foundational Knowledge)", level: 60 },
-  { name: "Odoo (Custom Code & ERP Solutions)", level: 70 },
+  { name: "React.js & Frontend Architecture", level: 92 },
+  { name: "JavaScript (ES6+) & Modern Web APIs", level: 90 },
+  { name: "WordPress Engineering & Custom Theme Development", level: 92 },
+  { name: "Elementor Architecture & Advanced Implementation", level: 92 },
+  { name: "WooCommerce Engineering & Storefront Customization", level: 88 },
+  { name: "Redux Toolkit & State Orchestration", level: 88 },
+  { name: "REST API Integration & Data Workflows", level: 87 },
+  { name: "UI Systems & Design-to-Code Engineering", level: 92 },
+  { name: "Responsive & Performance Engineering", level: 90 },
+  { name: "HTML5, CSS3 & Tailwind CSS", level: 92 },
+  { name: "Git, GitHub & Version Control", level: 87 },
+  { name: "WordPress Core: Hooks, WP_Query & Template Hierarchy", level: 82 },
+  { name: "Advanced Custom Fields (ACF)", level: 82 },
+  { name: "Next.js & Modern React Architecture", level: 65 },
+  { name: "Odoo Customization & ERP Solutions", level: 70 },
 ];
-
 export const experience = [
   {
     role: "Frontend Developer",
@@ -232,12 +239,12 @@ export const projects = [
     url: "https://product-dahboard.netlify.app/",
   },
   {
-    title: "UOMO Store",
-    subtitle: "Modern E-Commerce Website",
-    category: "React",
-    badge: "React",
-    tags: ["React", "CSS", "Tailwind"],
-    url: "https://uomoecommerce.netlify.app/",
+    title: "Hayatullah Khan Fazli",
+    subtitle: "Professional WordPress Website",
+    category: "WordPress",
+    badge: "WordPress",
+    tags: ["WordPress", "Elementor", "Responsive Design"],
+    url: "https://hayatullahkhanfazli.com/",
   },
   {
     title: "JS Storefront",
