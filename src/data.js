@@ -181,7 +181,24 @@ export const projects = [
     tags: ["WordPress", "WooCommerce", "Elementor"],
     url: "https://wasera.pk/",
   },
-
+  {
+    title: "Human Element",
+    subtitle:
+      "Human Element — Corporate Executive Coaching & Leadership Development Website",
+    category: "WordPress",
+    badge: "Consultancy & Coaching",
+    tags: ["B2B Lead Gen", "Executive Coaching", "Corporate Strategy"],
+    url: "https://humanelement.coach/",
+  },
+  {
+    title: "The Fence Guys",
+    subtitle:
+      "The Fence Guys — Premium Local Contracting & Lead Generation Website",
+    category: "WordPress",
+    badge: "Construction & B2C",
+    tags: ["Lead Generation", "Local SEO", "Conversion Optimization"],
+    url: "https://gofenceguys.com/",
+  },
   {
     title: "Odheyati",
     subtitle: "E-Commerce Qurbani Platform",
