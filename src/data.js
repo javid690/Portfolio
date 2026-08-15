@@ -166,10 +166,10 @@ export const education = [
 export const projectCategories = [
   "All",
   "React",
+  "WordPress",
   "JavaScript",
   "MERN Stack",
   "Odoo",
-  "WordPress",
 ];
 
 export const projects = [
@@ -187,7 +187,7 @@ export const projects = [
       "Human Element — Corporate Executive Coaching & Leadership Development Website",
     category: "WordPress",
     badge: "Consultancy & Coaching",
-    tags: ["B2B Lead Gen", "Executive Coaching", "Corporate Strategy"],
+    tags: ["B2B Lead Gen", "WordPress", "Corporate Strategy"],
     url: "https://humanelement.coach/",
   },
   {
